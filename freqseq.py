@@ -7,8 +7,7 @@
     
     Average runtime: O(n)
         This is because there is one for loop and the rest of the actions are constant time
-    Space complexity: O(n)
-        This is because the dictionary uses O(n) because most hashmap functions are O(n)
+    
     
     Worst Case runtime: O(n)
         For the same reason
