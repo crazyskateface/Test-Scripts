@@ -1,3 +1,12 @@
+/**
+*
+*This cs when compiled in a solution is the base of an RSS feed download/interpreter 
+*
+*
+*
+*
+*
+**/
 using System;
 using System.Data;
 using System.Net;
